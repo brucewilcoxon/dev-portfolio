@@ -6,7 +6,7 @@ export function Footer () {
     const currentYear = Math.max(2025, new Date().getFullYear());
     const footerLinks = useMemo(() => [
         // { label: 'Articles', link: 'https://medium.com/@ejjay' },
-        { label: 'Resume', link: 'https://drive.google.com/file/d/1tEvkdrXXH8A528AzKJUpJWrEbeSV7O6r/view' },
+        { label: 'Resume', link: 'https://drive.google.com/file/d/14gEf6ocWGBBbtZEXNMaDiRpQCTkLPiNg/view' },
     ], [])
 
 
