@@ -22,7 +22,7 @@ export function Footer () {
               <p className="max-lg:text-center leading-loose">
                 Copyright &copy; {currentYear}<span> - </span>
                 <a href="https://github.com/brucewilcoxon">
-                  <span className="highlighted-text">godofbrowser</span>
+                  <span className="highlighted-text">brucewilcoxon</span>
                 </a>{" "}
                 <span className="max-sm:hidden">|</span>{" "}
                 <span className="whitespace-nowrap max-sm:block">
