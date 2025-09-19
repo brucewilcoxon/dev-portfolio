@@ -6,7 +6,7 @@ import { Button } from "@/components/ui/button";
 import { person } from "@/constants";
 import { cn } from "@/lib/utils";
 
-const contactEmail = person.email || "boudrigamarwane@gmail.com";
+const contactEmail = person.email || "brucewilcoxon.d@gmail.com";
 
 function ContactItem({ icon, title, value, href }: { icon: string; title: string; value: string; href?: string }) {
   const content = (
@@ -47,9 +47,9 @@ export function SectionContactMe() {
             <h3 className="text-xl font-semibold">Let&#39;s Connect</h3>
             <div className="space-y-0 divide-y divide-border/50">
               <ContactItem icon="envelope" title="Email" value={contactEmail} href={`mailto:${contactEmail}`} />
-              <ContactItem icon="linked-in" title="LinkedIn" value={"www.linkedin.com/in/marwaneboudriga"} href="https://www.linkedin.com/in/marwaneboudriga" />
+              <ContactItem icon="linked-in" title="LinkedIn" value={"www.linkedin.com/in/brucewilcoxon"} href="https://linkedin.com/in/bruce-wilcoxon-b5207b192" />
               <ContactItem icon="github" title="GitHub" value={"github.com/boudrigamarwane"} href="https://github.com/boudrigamarwane" />
-              <ContactItem icon="location" title="Location" value={"Fairfax, Virginia, United States"} />
+              <ContactItem icon="location" title="Location" value={"Austin, Texas"} />
             </div>
 
             <div className="rounded-xl border bg-card p-4 mt-1">

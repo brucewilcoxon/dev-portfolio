@@ -14,7 +14,7 @@ const inter = Inter({ subsets: ["latin"] });
 // https://nextjs.org/docs/app/api-reference/functions/generate-metadata#metadata-fields
 export const metadata: Metadata = {
   // metadataBase: new URL(appUrl),
-  authors: [{ name: 'Marwane Boudriga', url: 'https://github.com/boudrigamarwane' }],
+  authors: [{ name: 'Bruce Wilcoxon', url: 'https://github.com/boudrigamarwane' }],
   
   robots: {
     index: hasGoneLive,

@@ -2,10 +2,10 @@ import {IExperience} from "@/interfaces/experience.interface";
 
 export const experiences: IExperience[] = [
     {
-        "period": "2024.06 – 2025.08",
+        "period": "2021.12 – 2025.08",
         "organization": "BlackBoiler",
-        "position": "Senior Frontend Engineer",
-        "location": "Arlington, VA",
+        "position": "St. Luke’s University Health Network",
+        "location": "Remote",
         "type": "remote",
         "techTools": [
             "Vue.js",
@@ -17,15 +17,15 @@ export const experiences: IExperience[] = [
             "Stripe API"
         ],
         "achievements": [
-            "Engineered React and TypeScript frontend systems with GraphQL, Zustand, and TailwindCSS to reduce dashboard load times by 40% and enhance enterprise UX, while leading UI development of the Janus MVP observability platform to improve developer onboarding success by 25%, and collaborating with Lightspin to deliver API security dashboards that boosted detection visibility by 35% and cut customer manual review time by 20%."
+            "Rehired to support and enhance daily operations of enterprise healthcare software previously designed and built and delivered production-ready solutions for reporting and patient management systems, ensuring reliability and scalability."
         ]
     },
     {
-        "period": "2022.08 – 2024.01",
-        "organization": "Elemeno Health",
-        "position": "Senior Frontend Developer",
-        "location": "Oakland, CA",
-        "type": "remote",
+        "period": "2020.08 – 2021.05",
+        "organization": "Wilder Systems Robots",
+        "position": "Technical Lead",
+        "location": "Austin, TX",
+        "type": "onsite",
         "techTools": [
             "Vue.js",
             "Quasar",
@@ -40,34 +40,34 @@ export const experiences: IExperience[] = [
             "React Native"
         ],
         "achievements": [
-            "Architected a reusable React component library with Chakra UI and Storybook to cut design-to-dev handoff time by 40% and standardize UX across 4+ products, built highly responsive pixel-perfect UIs from complex Figma designs with full WCAG accessibility compliance, and refactored the frontend into a modular architecture that reduced bundle size by 20% while boosting developer velocity by 30%."
+            "Led development of an automated robotic COVID-19 testing platform capable of processing 6,000+ samples/day per unit, compliant with FDA EUA protocols and designed distributed software components: Python event-driven services, RPC socket-based roboticarm control, REST-driven liquid handler automation, C# IPC services, and GraphQL-powered technician interfaces."
         ]
     },
     {
-        "period": "2021.06 – 2022.07",
-        "organization": "Extend",
-        "position": "Frontend Engineer",
-        "location": "San Francisco, CA",
+        "period": "2018.06 – 2020.02",
+        "organization": "St. Luke’s University Health Network,",
+        "position": "Full Stack Engineer",
+        "location": "Remote",
         "type": "remote",
         "techTools": [
             "Ionic",
             "Angular",
             "React",
-            "Next.js",
+            "Vue.js",
             "Prismic.io",
             "Typescript",
             "Node.js",
             "Firebase",
         ],
         "achievements": [
-            "Developed scalable design systems in React and Chakra UI to accelerate UI delivery by 30% and reduce regressions through Storybook-driven development, implemented mobile-first accessible UI patterns with design and product teams to raise Lighthouse scores to 95+, and championed a testing culture with Cypress and Jest while mentoring 3 junior engineers, increasing test coverage from 50% to 85%."
+            "Built Vue.js SPAs for healthcare analysts, enabling ad-hoc queries, data drill-downs, and customizable dashboards and automated ETL pipelines with WebFOCUS and Apache Tomcat DSL, integrating Greenplum data warehouse for scalable reporting."
         ]
     },
     {
-        "period": "2018.05 – 2021.05",
-        "organization": "Evolent Health",
-        "position": "Frontend Developer",
-        "location": "Arlington, VA",
+        "period": "2017.02 – 2017.12",
+        "organization": "Information Builders",
+        "position": "Software Engineer",
+        "location": "New York, NY",
         "type": "remote",
         "techTools": [
             "Vue.js",
@@ -76,14 +76,14 @@ export const experiences: IExperience[] = [
             "HTML5"
         ],
         "achievements": [
-            "Built and maintained a centralized React component library serving 10+ internal applications to ensure brand consistency and reduce redundancy, conducted security testing reviewed and approved by GuidePoint Security that reduced critical frontend vulnerabilities by 60%, and delivered 15+ technical talks on component architecture, dev tooling, and performance profiling that accelerated onboarding by 50%."
+            "Built Cohort Builder, an off-the-shelf longitudinal patient management system used for government and healthcare reporting and developed a Vue.js SPA to categorize patients using ICD-10 and CPT codes, enabling healthcare providers to track care, performance, and supplemental needs."
         ]
     },
     {
-        "period": "2017.06 – 2018.05",
-        "organization": "SynGlyphX",
-        "position": "Frontend Developer",
-        "location": "South Bend, IN",
+        "period": "2015 – 2017",
+        "organization": "Wilcoxon Group Inc",
+        "position": "Software Engineer",
+        "location": "Remote",
         "type": "remote",
         "techTools": [
             "Vue.js",
@@ -92,15 +92,15 @@ export const experiences: IExperience[] = [
             "HTML5"
         ],
         "achievements": [
-            "Led frontend development with React and Redux while managing 3 developers to achieve a 98% sprint completion rate, built RESTful APIs with Node.js and Express hosted on AWS EC2 and S3 to cut infrastructure costs by 30%, and designed interactive data visualizations that improved user task completion rates by 45%."
+            "Supported client projects in software engineering and full-stack application development."
         ]
     },
     {
         "period": "2013.08 – 2017.05",
-        "organization": "George Mason University",
-        "position": "Bachelor’s Degree in Computer Science",
-        "location": "Fairfax, VA",
-        "type": "remote",
+        "organization": "The University of Texas at Austin,",
+        "position": "Bachelor of Science (BS)",
+        "location": "Austin, TX",
+        "type": "",
         "techTools": [
             "Vue.js",
             "SCSS",
