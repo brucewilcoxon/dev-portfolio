@@ -25,7 +25,7 @@ export const experiences: IExperience[] = [
         "organization": "Wilder Systems Robots",
         "position": "Technical Lead",
         "location": "Austin, TX",
-        "type": "onsite",
+        "type": "on-site",
         "techTools": [
             "Vue.js",
             "Quasar",
@@ -100,7 +100,7 @@ export const experiences: IExperience[] = [
         "organization": "The University of Texas at Austin,",
         "position": "Bachelor of Science (BS)",
         "location": "Austin, TX",
-        "type": "",
+        "type": "hybrid",
         "techTools": [
             "Vue.js",
             "SCSS",
