@@ -21,7 +21,7 @@ export function Footer () {
               </ul>
               <p className="max-lg:text-center leading-loose">
                 Copyright &copy; {currentYear}<span> - </span>
-                <a href="https://github.com/boudrigamarwane">
+                <a href="https://github.com/brucewilcoxon">
                   <span className="highlighted-text">godofbrowser</span>
                 </a>{" "}
                 <span className="max-sm:hidden">|</span>{" "}

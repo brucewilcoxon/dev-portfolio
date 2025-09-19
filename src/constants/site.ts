@@ -12,13 +12,13 @@ export const person = {
     email: 'brucewilcoxon.d@gmail.com',
     userPhoto: "/images/bruce.jpg",
     userHeadline: 'Senior Full Stack Engineer',
-    about: "I’m a Senior Frontend Engineer with 8+ years of experience leading cross-functional teams, architecting enterprise-level solutions, and delivering high-impact projects across healthcare, robotics, and interactive technology.",
+    about: "I’m a Senior Full Stack Engineer with 8+ years of experience leading cross-functional teams, architecting enterprise-level solutions, and delivering high-impact projects across healthcare, robotics, and interactive technology.",
 };
 
 
 export const platformLinks = [
     { link: "https://linkedin.com/in/bruce-wilcoxon-b5207b192", label: "LinkedIn", icon: [AppIcon, {name: 'linked-in'}] },
-    { link: "https://github.com/boudrigamarwane", label: "Github", icon: [AppIcon, {name: 'github'}] },
+    { link: "https://github.com/brucewilcoxon", label: "Github", icon: [AppIcon, {name: 'github'}] },
     { link: `mailto:${person.email}`, label: "Email", icon: [AppIcon, {name: 'envelope'}] },
 ];
 

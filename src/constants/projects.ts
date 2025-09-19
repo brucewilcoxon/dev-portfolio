@@ -66,8 +66,8 @@ export const projects: IProject[] = [
         tags: ['live', 'oss'],
         tech: ["Typescript", "React", "Nextjs", "Radix-ui", "Shadcn-ui", "TailwindCSS"],
         links: {
-            code: "https://github.com/Godofbrowser/portfolio-website/tree/main/src",
-            demo: "https://emeke-ajeh.netlify.app/",
+            code: "https://github.com/brucewilcoxon/dev-portfolio",
+            demo: "https://brucewilcoxon.vercel.app/",
         },
         description: "This portfolio website is a sleek and modern single-page application developed with Next.js, showcasing the developer's skills, projects, and professional achievements",
         features: [

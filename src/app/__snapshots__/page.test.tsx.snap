@@ -58,7 +58,7 @@ exports[`Page renders homepage unchanged 1`] = `
               <a
                 aria-label="Github"
                 class="transition-colors duration-300 hover:text-accent"
-                https://github.com/boudrigamarwane"
+                https://github.com/brucewilcoxon"
               >
                 <svg
                   class="size-6"
@@ -1071,7 +1071,7 @@ exports[`Page renders homepage unchanged 1`] = `
                     >
                       <a
                         class="inline-flex items-center justify-center gap-2 whitespace-nowrap font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 transition-colors duration-300 border border-input bg-background shadow-sm hover:bg-accent hover:text-accent-foreground h-8 rounded-md px-3 text-xs"
-                        https://github.com/boudrigamarwane/portfolio-website/tree/main/src"
+                        https://github.com/brucewilcoxon/portfolio-website/tree/main/src"
                         target="_blank"
                       >
                         <svg
@@ -1346,7 +1346,7 @@ exports[`Page renders homepage unchanged 1`] = `
                     >
                       <a
                         class="inline-flex items-center justify-center gap-2 whitespace-nowrap font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 transition-colors duration-300 border border-input bg-background shadow-sm hover:bg-accent hover:text-accent-foreground h-8 rounded-md px-3 text-xs"
-                        https://github.com/boudrigamarwane/vuejs-dialog"
+                       https://github.com/brucewilcoxon/vuejs-dialog"
                         target="_blank"
                       >
                         <svg
@@ -1493,7 +1493,7 @@ exports[`Page renders homepage unchanged 1`] = `
                     >
                       <a
                         class="inline-flex items-center justify-center gap-2 whitespace-nowrap font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 transition-colors duration-300 border border-input bg-background shadow-sm hover:bg-accent hover:text-accent-foreground h-8 rounded-md px-3 text-xs"
-                        href="https://github.com/kittiefight"
+                        href="https://github.com/brucewilcoxon"
                         target="_blank"
                       >
                         <svg
@@ -1906,7 +1906,7 @@ exports[`Page renders homepage unchanged 1`] = `
                     >
                       <a
                         class="inline-flex items-center justify-center gap-2 whitespace-nowrap font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 transition-colors duration-300 border border-input bg-background shadow-sm hover:bg-accent hover:text-accent-foreground h-8 rounded-md px-3 text-xs"
-                        href="https://github.com/Codulab/laravel-restricted/tree/master/src"
+                        href="https://github.com/brucewilcoxon/laravel-restricted/tree/master/src"
                         target="_blank"
                       >
                         <svg
@@ -1935,7 +1935,7 @@ exports[`Page renders homepage unchanged 1`] = `
                       </a>
                       <a
                         class="inline-flex items-center justify-center gap-2 whitespace-nowrap font-medium focus-visible:outline-none focus-visible:ring-1 focus-visible:ring-ring disabled:pointer-events-none disabled:opacity-50 [&_svg]:pointer-events-none [&_svg]:size-4 [&_svg]:shrink-0 transition-colors duration-300 border border-input bg-background shadow-sm hover:bg-accent hover:text-accent-foreground h-8 rounded-md px-3 text-xs"
-                        href="https://github.com/Codulab/laravel-restricted/commits?author=Godofbrowser"
+                        href="https://github.com/brucewilcoxon/laravel-restricted/commits?author=Godofbrowser"
                         target="_blank"
                       >
                         <svg

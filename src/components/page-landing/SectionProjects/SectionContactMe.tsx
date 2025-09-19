@@ -48,7 +48,7 @@ export function SectionContactMe() {
             <div className="space-y-0 divide-y divide-border/50">
               <ContactItem icon="envelope" title="Email" value={contactEmail} href={`mailto:${contactEmail}`} />
               <ContactItem icon="linked-in" title="LinkedIn" value={"www.linkedin.com/in/brucewilcoxon"} href="https://linkedin.com/in/bruce-wilcoxon-b5207b192" />
-              <ContactItem icon="github" title="GitHub" value={"github.com/boudrigamarwane"} href="https://github.com/boudrigamarwane" />
+              <ContactItem icon="github" title="GitHub" value={"github.com/brucewilcoxon"} href="https://github.com/brucewilcoxon" />
               <ContactItem icon="location" title="Location" value={"Austin, Texas"} />
             </div>
 
